@@ -2,7 +2,7 @@
 (function() {
   var ProtoSock, client, server;
 
-  ProtoSock = require('protosock');
+  ProtoSock = require('wearefractal-protosock');
 
   client = require('./Client');
 
